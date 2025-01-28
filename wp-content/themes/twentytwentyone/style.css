@@ -5909,3 +5909,10 @@ footer {
 .is-IE .post-thumbnail .wp-post-image {
 	min-width: auto;
 }
+li.elementor-icon-list-item a span {
+    color: red !important;
+}
+
+li.elementor-icon-list-item a span {
+    color: blue !important;
+}  
